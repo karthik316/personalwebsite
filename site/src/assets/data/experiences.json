@@ -1,0 +1,185 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "03-17-2016",
+        "endAt": "02-23-2019",
+        "companyName": "Tata Consultancy Servies",
+        "website": "https://www.tcs.com/",
+        "logo": "assets/template/experience/logo/tcs.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Uberaba",
+                "country": "Brasil",
+                "role": "Estágio Webmaster",
+                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+            },
+            {
+                "language": "en",
+                "city": "Hyderabad",
+                "country": "India",
+                "role": "Full stack developer",
+                "description": "<b>Tata Consultancy Services</b> is a India's largest IT Services company. I had started my career here as a fresher, got to learn lot of things from seniors. I evolved as a Full stack developer. "
+            }
+        ],
+        "technologies": [
+            "C#", "Azure", "Angular", "HTML", "CSS3", "ASP .NET Web API", "SQL", "Windows", "UWP"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn TCS",
+                "http": "https://www.linkedin.com/company/tata-consultancy-services/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook TCS",
+                "http": "https://www.facebook.com/TataConsultancyServices"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube TCS",
+                "http": "https://www.youtube.com/c/tcsglobal"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "02-25-2019",
+        "endAt": "08-22-2019",
+        "companyName": "Deloitte",
+        "website": "https://www2.deloitte.com/us/en.html",
+        "logo": "assets/template/experience/logo/deloitte.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Rio de Janeiro",
+                "country": "Brasil",
+                "role": "Desenvolvedor Full-stack",
+                "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
+            },
+            {
+                "language": "en",
+                "city": "Hyderabad",
+                "country": "India",
+                "role": "Full stack Developer",
+                "description": "<b>Deloitte Touche Tohmatsu Limited</b> commonly referred to as Deloitte, is a international professional services network headquartered in London, United Kingdom. Deloitte is the largest professional services network by revenue and number of professionals in the world and is considered one of the Big Four accounting firms"
+            }
+        ],
+        "technologies": [
+            "Azure", "Microservices", "Service Fabric", "Angular", "ASP .NET Web API", "SQL"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Deloitte",
+                "http": "https://www.linkedin.com/company/deloitte/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Deloitte",
+                "http": "https://www.facebook.com/DeloitteIndia"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube Deloitte",
+                "http": "https://www.youtube.com/c/DeloitteUS"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "08-23-2019",
+        "endAt": "09-23-2021",
+        "companyName": "Carrier Technologies India Limited",
+        "website": "https://www.carrier.com/",
+        "logo": "assets/template/experience/logo/carrier.png",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "São Paulo",
+                "country": "Brasil",
+                "role": "Desenvolvedor Mobile",
+                "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
+            },
+            {
+                "language": "en",
+                "city": "Hyderabad",
+                "country": "India",
+                "role": "Full stack Developer",
+                "description": "Carrier Global Corporation is an American multinational home appliances corporation based in Palm Beach Gardens, Florida. Carrier was founded in 1915 as an independent company manufacturing and distributing heating, ventilating and air conditioning (HVAC) systems, and has since expanded to include manufacturing commercial refrigeration and foodservice equipment, and fire and security technologies"
+            }
+        ],
+        "technologies": [
+            "Azure", "Microservices", "Kubernetes", "Service Fabric", "Angular", "ASP .NET Web API Core", "SQL", "Terraform"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Carrier",
+                "http": "https://www.linkedin.com/company/carrier/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Carrier Global",
+                "http": "https://www.facebook.com/CarrierGlobal/"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube Carrier",
+                "http": "https://www.youtube.com/c/CarrierOfficial"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/sao-paulo.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "09-27-2021",
+        "companyName": "Microsoft",
+        "website": "https://www.microsoft.com/",
+        "logo": "assets/template/experience/logo/microsoft.jpg",
+        "internationalizations": [
+            {
+                "language": "pt",
+                "city": "Rotterdão",
+                "country": "Países Baixos",
+                "role": "Engenheiro Full-stack",
+                "description": "<b>Swisscom</b> é a empresa <b>#1</b> de telecomunicações e uma das principais empresas de TI da Suíça. Seus produtos e serviços variam de soluções B2C, como a Swisscom TV, a soluções de TI B2B em vários setores, como Bancos, Saúde, Energia, Entretenimento e Publicidade.<br><br>Na <i>Swisscom DevOps Center</i>, inovação e experimentação estão profundamente enraizadas no DNA da empresa. O ambiente multicultural com 15 nacionalidades, somado à cultura de <i>Tribos/Esquadrões</i>, contribui para colocar nós, funcionários, como parte de uma equipe virtual internacional, especializada em DevOps, entre várias outras tecnologias de ponta."
+            },
+            {
+                "language": "en",
+                "city": "Hyderabad",
+                "country": "India",
+                "role": "Full stack Engineer",
+                "description": "<b> Microsoft Corporation </b>, commonly known as Microsoft, is an American multinational technology corporation which produces computer software, consumer electronics, personal computers, and related services headquarted at the Microsoft Redmond campus located in Redmond, Washington, United States"
+            }
+        ],
+        "technologies": [
+            "Azure", "Microservices", "Kubernetes", "Service Fabric", "Angular", "ASP .NET Web API Core", "SQL", "Terraform"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Microsoft",
+                "http": "https://www.linkedin.com/company/microsoft/"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Microsoft",
+                "http": "https://www.facebook.com/MicrosoftIndia"
+            },
+            {
+                "icon": "youtube",
+                "title": "Youtube Microsoft",
+                "http": "https://www.youtube.com/c/Microsoft"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rotterdam.jpg"
+    }
+]

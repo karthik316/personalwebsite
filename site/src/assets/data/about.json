@@ -1,0 +1,37 @@
+{
+    "medias": [        
+        {
+            "icon": "linkedin",
+            "title": "LinkedIn",
+            "http": "https://www.linkedin.com/in/karthik-r-s-07b305ab/"
+        },
+        {
+            "icon": "github",
+            "title": "GitHub",
+            "http": "https://github.com/karthik316"
+        },
+        {
+            "icon": "facebook",
+            "title": "Facebook",
+            "http": "https://www.facebook.com/rsk222"
+        }
+    ],
+    "hobbies": [        
+        {
+            "icon": "baseball-ball",
+            "title": "Cricket"
+        },
+        {
+            "icon": "film",
+            "title": "Watching Movies"
+        },
+        {
+            "icon": "suitcase-rolling",
+            "title": "Travel"
+        },
+        {
+            "icon": "hamburger",
+            "title": "Eating"
+        }
+    ]
+}

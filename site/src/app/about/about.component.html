@@ -1,0 +1,34 @@
+<section id="about" itemscope itemtype="https://schema.org/AboutPage">
+    <div class="about-container" itemscope itemtype="https://schema.org/Person">
+        <!-- structured data properties -->
+        <meta itemprop="jobTitle" content="Full-stack .NET Developer" />
+        <meta itemprop="knowsLanguage" content="en" />
+        <meta itemprop="nationality" content="India" />
+        <meta itemprop="gender" content="Male" />
+        <meta itemprop="email" content="rsk1993@hotmail.com" />
+        <meta itemprop="birthDate" content="1993-06-29" />
+        <meta itemprop="url" content="https://www.karthikrs.com" />
+        <div class="first-column">
+            <h1 i18n="nav@@aboutMe">About me</h1>
+            <h2><span itemprop="name">{{ name }}</span></h2>
+            <p class="years-old">
+                <span itemprop="yearsOld">{{ yearsOld }}</span>
+                &nbsp;<span i18n="about@@yearsOld">years old</span>
+            </p>
+            <p class="text" appInternationalization >My path as a <i>programmer</i> has started at 17 years old. I was very new into programming and chose it to be my career because as a programmer one can turn his imagnigation into reailty. I used to spend hours in a row trying to build websites, learn new technolgoies etc. Finally started my professional career with TCS and now I currrently work at Microsoft.</p>
+          
+            <div class="hobbies">
+                <h3>Hobbies</h3>
+                <fa-icon *ngFor="let hobby of aboutData?.hobbies" [icon]="['fas', hobby.icon]" class="icon" title="{{ hobby.title }}" itemprop="hobby"></fa-icon>
+            </div>
+        </div>
+        <div class="second-column">
+            <div class="profile-picture"></div>
+            <div class="social-media">
+                <a *ngFor="let media of aboutData?.medias" href="{{ media.http }}" target="_blank" itemprop="sameAs">
+                    <fa-icon [icon]="['fab', media.icon]" class="icon" title="{{ media.title }}"></fa-icon>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
